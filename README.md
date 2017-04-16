@@ -1,5 +1,8 @@
 <table>
   <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/dwh.jpg" /></td>
+  </tr>
+  <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
   </tr>
   <tr>
@@ -8,6 +11,7 @@
   </tr>
   <tr>
 <td align=left>
+ * 2017年全球热点文章<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c807209&from=wnel">◆◆中共害国，铁证如山</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813172&from=wnel">◆◆中共卖国，证据确凿</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813247&from=wnel">◆◆对中共无神论说“不”！</a><br/>
@@ -21,13 +25,13 @@
   </tr>
   <tr>
       <td align=left>
- * 更多精彩专辑：全球热门：<br/>
+ * 2017年全球热点专辑：震撼世人，引发巨变<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">◆◆◆九评共产党：全球热传18年！（必看）</a><br/>
+◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
+◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
+◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
+◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
-◆◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">九评共产党：全球热传18年！</a>◆◆◆<br/>
-◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
-◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
-◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
-◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
   </tr>
   <tr>
     <td align=center>
