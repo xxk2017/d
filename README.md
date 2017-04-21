@@ -1,20 +1,16 @@
 <table>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/dwh.jpg" /></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/dwh.jpg" /></td>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
    </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
-  </tr>
-  <tr>
-      <td align=center>
-点下方网址，如打开慢，缓冲稍等或刷新<br/> 
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
 <td align=left>
- * 2017年全球热点文章<br/>
+ ◆◆2017年全球热点文章<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c807209&from=wnel">◆◆中共害国，铁证如山</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813172&from=wnel">◆◆中共卖国，证据确凿</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813247&from=wnel">◆◆对中共无神论说“不”！</a><br/>
@@ -30,6 +26,7 @@
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F6%2Fn8879818.htm&from=wnel">◆《大纪元时报》特刊：共产党百年真相</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F4%2F20%2Fn9055656.htm&from=wnel">◆【特稿】迫害法轮功遭报应实录</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F11%2F2%2Fn4564327.htm&from=wnel">◆【特稿】感情代替不了理智</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F9%2Fn8792816.htm&from=wnel">◆【特稿】共产主义不是出路而是绝路</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
@@ -39,7 +36,7 @@
   </tr>
   <tr>
       <td align=left>
- * 2017年全球热点专辑：震撼世人，引发巨变<br/>
+◆2017年全球热点专辑：震撼世人，引发巨变<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">◆◆◆九评共产党：全球热传18年！（必看）</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
@@ -50,7 +47,7 @@
   <tr>
     <td align=center>
 全球近3亿人的幸运选择，珍贵机缘<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">请点击在线快速办理</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">❤❤请点击在线快速办理❤❤</a><br/>
 为你而来，这一次您千万别再错过～<br/>
   </tr>
   <tr>
@@ -89,6 +86,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
       <td align=center>
@@ -105,6 +103,9 @@
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+  </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
